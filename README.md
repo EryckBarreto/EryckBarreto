@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**EryckBarreto/EryckBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" height="400" src="https://i.redd.it/1r0b7q6jmc451.png">
+  
+## Meu nome é Eryck, mas também podem me chamar de Ryu ^^!
+  
+ 
+## About me 
 
-Here are some ideas to get you started:
+I can't get no satisfaction - Rolling Stones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EryckBarreto)](https://github.com/EryckBarreto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eryckbarreto/)](https://www.linkedin.com/in/eryckbarreto/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+41+9987477659&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+41+987477659&text=Hello!)
+
+
+- Thanks for visiting. 
+ 
