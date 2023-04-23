@@ -34,9 +34,10 @@
   <br>
   <h2>📫 Me encontre em 📫</h2>
   <br>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/seu-usuario/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+      
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EryckBarreto)](https://github.com/EryckBarreto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eryckbarreto/)](https://www.linkedin.com/in/eryckbarreto/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+41+9987477659&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+41+987477659&text=Hello!)
     </a>
   </p>
 </div>
