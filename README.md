@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello! My name is Eryck, but you can call me Ryu 👋</h1>
+  <h1>Hello! My name is Eryck👋</h1>
   <p>Greetings, fellow techies! I'm a self-proclaimed computer whisperer, constantly seeking to unravel the mysteries of the digital universe... or trying to convince   my toaster to connect to the Internet (it's a work in progress).</p>
     
   <p>I spend my days slinging code, debugging, and pondering the meaning of life (and by "life", I mean the ever-elusive semicolon). When I'm not staring at a screen,    you can find me pondering the big questions: Can robots feel love? Is AI destined to be our overlord? And why does my code always work perfectly in my head but       never in reality? 
