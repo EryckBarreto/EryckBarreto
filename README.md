@@ -1,40 +1,43 @@
 <div align="center">
-  <h1>Hello! My name is Eryck👋</h1>
-  <p>Greetings, fellow techies! I'm a self-proclaimed computer whisperer, constantly seeking to unravel the mysteries of the digital universe... or trying to convince   my toaster to connect to the Internet (it's a work in progress).</p>
-    
-  <p>I spend my days slinging code, debugging, and pondering the meaning of life (and by "life", I mean the ever-elusive semicolon). When I'm not staring at a screen,    you can find me pondering the big questions: Can robots feel love? Is AI destined to be our overlord? And why does my code always work perfectly in my head but       never in reality? 
-    
-   <p>If you're seeking a coding partner or just need someone to share your coffee addiction with, I'm your gal. Let's embrace the endless possibilities of tech and      create some magic - or just some really cool apps.</p>
-  <br>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600px">
-  <br>
-  <br>
-  <p>"No. Try not. Do… or do not. There is no try." - Yoda</p>
-  <br>
-  <br>
-  <h2>🚀 Tecnologias que estou estudando 🚀</h2>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge"/></a>
 
-  </p>
-  <br>
-  <hr>
-  <br>
-  <hr>
-  <br>
-  <h2>📫 Me encontre em 📫</h2>
-  <br>
-      
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EryckBarreto)](https://github.com/EryckBarreto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eryckbarreto/)](https://www.linkedin.com/in/eryckbarreto/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+41+9987477659&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+41+987477659&text=Hello!)
-    </a>
-  </p>
-</div>
+## 💫 Hello! My name is Eryck👋
+
+
+
+Greetings, fellow techies! I'm a self-proclaimed computer whisperer, constantly seeking to unravel the mysteries of the digital universe... or trying to convince my toaster to connect to the Internet (it's a work in progress).
+
+I spend my days slinging code, debugging, and pondering the meaning of life (and by "life", I mean the ever-elusive semicolon). When I'm not staring at a screen, you can find me pondering the big questions: Can robots feel love? Is AI destined to be our overlord? And why does my code always work perfectly in my head but never in reality?
+
+If you're seeking a coding partner or just need someone to share your coffee addiction with, I'm your gal. Let's embrace the endless possibilities of tech and create some magic - or just some really cool apps.
+
+<p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
+</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/eryckbarreto/) 
+
+# 🚀 Technologies I'm Studying 🚀:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EryckBarreto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+<br>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EryckBarreto&theme=midnight-purple&hide_border=false)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EryckBarreto&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EryckBarreto&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+## ✍️ Random Dev Quote:
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😂 Here's a bit of nerdy fun:
+![Random Dev Meme](https://randommeme-five.vercel.app/)
+
+---
+[![Visit Counter](https://visitcount.itsvg.in/api?id=EryckBarreto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
