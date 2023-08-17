@@ -37,9 +37,3 @@ If you're seeking a coding partner or just need someone to share your coffee add
 
 ## 😂 Here's a bit of nerdy fun:
 ![Random Dev Meme](https://randommeme-five.vercel.app/)
-
----
-[![Visit Counter](https://visitcount.itsvg.in/api?id=EryckBarreto&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
