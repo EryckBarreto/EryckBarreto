@@ -14,6 +14,8 @@ If you're seeking a coding partner or just need someone to share your coffee add
   <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
 </p>
 
+"No. Try not. Do… or do not. There is no try." - Yoda
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/eryckbarreto/) 
 
