@@ -34,6 +34,3 @@ If you're seeking a coding partner or just need someone to share your coffee add
 
 ## ✍️ Random Dev Quote:
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 😂 Here's a bit of nerdy fun:
-![Random Dev Meme](https://randommeme-five.vercel.app/)
