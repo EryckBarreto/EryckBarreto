@@ -1,8 +1,7 @@
+![Github (2)](https://github.com/user-attachments/assets/b8fcac77-90c8-49b0-add8-d0c6a9cd2e16)
 <div align="center">
-![github](https://github.com/user-attachments/assets/c7a5bc24-f16a-474d-900f-62a12792b5e9)
 
 ## 💫 Olá! Meu nome é Bond... James Bond. Brincadeira, eu me chamo Eryck.
-
 
 
 Saudações! Se você está aqui no GitHub é porque deve ser um geek que nem eu. Ou a pessoa do RH :O (nesse caso, seja bem vinda, sinta-se em casa rs). Sou um autoproclamado desenvolvedor cyberpunk, sempre buscando desvendar os mistérios do universo digital... ou tentando convencer minha torradeira a se conectar à Internet (é um trabalho em andamento).
